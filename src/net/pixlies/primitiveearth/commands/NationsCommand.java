@@ -2,7 +2,6 @@ package net.pixlies.primitiveearth.commands;
 
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandSender;
-import org.bukkit.event.Listener;
 
 public class NationsCommand extends Command {
 	
